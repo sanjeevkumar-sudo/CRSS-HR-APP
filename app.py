@@ -7,7 +7,7 @@ plus an AI-powered natural-language custom report studio (Anthropic Claude API).
 
 - Python 3.9+
 - An Anthropic API key (only needed for the "AI Natural Language Report Studio"
-  tab) — get one at https://console.anthropic.com/
+  tab) - get one at https://console.anthropic.com/
 
 ## 2. Setup (Terminal Commands)
 
